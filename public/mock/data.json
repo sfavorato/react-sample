@@ -1,0 +1,20 @@
+[
+  {
+    "id": "1",
+    "name": "Videl",
+    "videoURL": "https://dash.akamaized.net/akamai/bbb_30fps/bbb_30fps.mpd",
+    "previewURL": "./mock/videl.jpeg"
+  },
+  {
+    "id": "2",
+    "name": "Bulma",
+    "videoURL": "https://dash.akamaized.net/akamai/bbb_30fps/bbb_30fps.mpd",
+    "previewURL": "./mock/bulma.jpeg"
+  },
+  {
+    "id": "3",
+    "name": "Mr. Piccolo",
+    "videoURL": "https://dash.akamaized.net/akamai/bbb_30fps/bbb_30fps.mpd",
+    "previewURL": "./mock/piccolo.jpeg"
+  }
+]
